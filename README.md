@@ -1,4 +1,4 @@
-# Sayisal_Analiz_Ornekleri1
+# Sayisal_Analiz_Ödev1
 
 
 """ cosx fonksiyonunun Taylor serisini hesaplayarak, π/5 noktasındaki değerini;
